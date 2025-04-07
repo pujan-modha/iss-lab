@@ -9,3 +9,4 @@
 5. Rail Fence Cipher - [Code](/Lab5/rail_fence_cipher.ipynb)
 6. DES - [Code](/Lab6/des.ipynb)
 7. AES - [Code](/Lab7/aes.ipynb)
+8. RSA - [Code](/Lab8/rsa.ipynb)
